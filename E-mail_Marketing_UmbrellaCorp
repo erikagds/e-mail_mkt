@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt_BR">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="color-scheme" content="light dark">
+   <meta name="supported-color-schemes" content="light dark">
+	<title>E-mail</title>
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,700&display=swap');
+      table {
+			border-spacing: 0;
+		}
+		td {
+			padding: 0;
+		}
+		img {
+			border: 0;
+			border-width:0;
+		}
+		a {
+			color: #277fd2;
+			text-decoration: none;
+		}
+
+		.br-desk-none{
+			display: none;
+		}
+
+		@media screen and (max-width:599px){
+
+			.td-image{
+				width: 100%;
+				display: block;
+				text-align: center;
+			}
+		}
+	</style>
+
+</head>
+<body style="Margin:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;min-width:100%;background-color:#F6F9FC;">
+
+	
+
+	<center style="width: 100%;table-layout:fixed;background-color: #F6F9FC;padding-bottom: 40px;">
+		<div style="max-width: 600px;background-color: #ffffff;box-shadow: 0 0 10px rgba(0, 0, 0, .2);">
+
+			<!--[if (gte mso 9)|(IE)]>
+				<table width="600" align="center" style="border-spacing:0;" role="presentation">
+				<tr>
+				<td style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;">
+			<![endif]-->
+
+			<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-spacing:0; color:#3D3D3D;font-family: 'Roboto',sans-serif, Arial, Helvitica; background-color: #ffffff; Margin:0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; width: 100%; max-width: 600px;" role="presentation">
+				<tr>
+					<td>
+						<table align="center" width="100%" cellspcading="0" cellpadding="0" border="0" role="presentation">
+							<tr>
+								<td>
+									<table  align="center" width="100%" cellspcading="0" cellpadding="0" border="0" role="presentation">
+										<tr>
+											<td>
+												<table align="center" width="100%" cellspcading="0" cellpadding="0" border="0" role="presentation">
+													<!-- START IMAGE TOP -->
+													<tr>
+														<td>
+															<img src="imagens/banner.png" alt="Umbrella Corporation" width="600px" style="max-width: 100%; border: 0; margin: 0; display: block;">
+														</td>
+													</tr>
+													<!-- END IMAGE TOP -->
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td width="100%" height="30">
+
+											</td>
+										</tr>
+										<!-- START WHITE BOX -->
+										<tr>
+											<td>
+												<table width="80%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation" style="background-color: #ffffff; border-radius: 20px; border: #EE0404 5px solid;" bgcolor="#ffffff">
+													<tr>
+														<td>
+															<p style="margin: 40px 40px 10px; font-size: 22px; font-weight: 700; line-height: 26px; color: #000000; text-align: center;font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																Umbrella Corp.
+															</p>
+															<p style="margin: 0px 40px 20px; font-size: 15px; font-weight: 500; line-height: 26px; color: #000000; text-align: center;font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																international pharmaceutical company
+															</p>
+														</td>
+													</tr>
+													<tr>
+														<td align="center">
+															<img src="imagens/icon.png" alt="icon">
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<!-- END WHITE BOX -->
+										<tr>
+											<td width="100%" height="30">
+
+											</td>
+										</tr>
+										<!-- START BLACK BOX -->
+										<tr>
+											<td>
+												<table width="80%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation" style="background-color: #000000; border-radius: 20px; border: #EE0404 5px solid;" bgcolor="#000000">
+													<tr>
+														<td width="100%" height="20">
+
+														</td>
+													</tr>
+													<tr>
+														<td>
+															<table width="100%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation">
+																<tr>
+																	<td width="20">
+			
+																	</td>
+																	<td>
+																		<table  width="50%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation">
+																			<tr>
+																				<td align="right">
+																					<img src="imagens/bull.png" alt="icon">
+																				</td>
+																				<td>
+																					<p style="margin: 10px 0px 10px 10px; font-size: 15px; font-weight: 500; line-height: 26px; color: #ffffff; font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																						genetic experiments
+																					</p>															
+																				</td>
+																			</tr>
+																			<tr>
+																				<td align="right">
+																					<img src="imagens/bull.png" alt="icon">
+																				</td>
+																				<td>
+																					<p style="margin: 10px 10px 10px 10px; font-size: 15px; font-weight: 500; line-height: 26px; color: #ffffff; font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																						laboratories
+																					</p>															
+																				</td>
+																			</tr>
+																			<tr>
+																				<td align="right">
+																					<img src="imagens/bull.png" alt="icon">
+																				</td>
+																				<td>
+																					<p style="margin: 10px 10px 10px 10px; font-size: 15px; font-weight: 500; line-height: 26px; color: #ffffff; font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																						partnerships
+																					</p>															
+																				</td>
+																			</tr>
+																			<tr>
+																				<td align="right">
+																					<img src="imagens/bull.png" alt="icon">
+																				</td>
+																				<td>
+																					<p style="margin: 10px 10px 10px 10px; font-size: 15px; font-weight: 500; line-height: 26px; color: #ffffff; font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																						Sale of DNA tests
+																					</p>															
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																	<td width="20">
+																		
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="20">
+
+														</td>
+													</tr>													
+													<!-- START BOTÃO -->
+													<tr>
+														<td align="center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+															<!--[if (gte mso 9)|(IE)]>
+															<table width="206" align="center" style="border-spacing:0;" role="presentation">
+															<tr>
+															<td width="206" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;background-color: #EE0404;">
+															<![endif]-->
+										
+															<table width="100%" style="border-spacing:0;" role="presentation">
+																<tr>
+																	<td align="center" style="text-align: center; padding-top: 0px;">
+																		<a href="https://residentevil.com.br/umbrella-corps/" target="_blank" style="font-size: 18px; font-weight: 400 ;text-decoration: none;color: #FFFFFF;background-color: #EE0404;border:1px solid #EE0404;border-radius:30px; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; padding: 10px 64px;display: inline-block;">Buy now!
+																		</a>
+																	</td>
+																</tr>
+															</table>
+										
+															<!--[if (gte mso 9)|(IE)]>
+															</td>
+															</tr>
+															</table>
+															<![endif]-->
+														</td>
+													</tr>
+													<!-- END BOTÃO -->	
+													<tr>
+														<td width="100%" height="20">
+
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>										
+										<!-- END BLACK BOX -->
+										<tr>
+											<td width="100%" height="30">
+
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table width="100%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation" style="background-color: #000000;">
+													<tr>
+														<td width="20">
+
+														</td>
+														<td class="td-image">
+															<table width="100%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation">
+																<tr>
+																	<td class="td-image">
+																		<img src="imagens/logo.jpg" alt="icon" width="100px">
+																	</td>
+																	<td class="td-image">
+																		<p style="margin: 20px; font-size: 30px; font-weight: 500; line-height: 26px; color: #EE0404; font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																			Come to Umbrella Corp
+																		</p>
+																	</td>
+																</tr>
+															</table>
+														</td>
+														<td width="20">
+
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table width="100%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation">
+													<tr>
+														<td>
+															<a href="https://www.google.com.br/" target="_blank" style="text-decoration: underline; color: #000000;">
+															<p style="margin: 40px; font-size: 20px; font-weight: 700; line-height: 26px; color: #000000; text-align: center;font-family: 'Roboto Mono', monospace; text-transform: uppercase;">
+																contact us!
+															</p>
+															</a>															
+														</td>
+													</tr>													
+												</table>
+											</td>
+										</tr>
+										<!-- START INFORMATION -->
+										<tr>
+											<td align="center">
+												<img src="imagens/banner_bottom.png" alt="Umbrella Corporation" width="319px">
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table width="90%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation" style="border-top: 2px #000000 solid;">
+													<tr>
+														<td>
+															<p style="margin: 20px; font-size: 12px; font-weight: 400; line-height: 24px; color: #000000; font-family: 'Roboto Mono', monospace;">	
+																For more information, contact the company through the website.
+															</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<!-- END INFORMATION -->
+										<!-- START ICONS -->
+										<tr>
+											<td>
+												<table  width="100%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation">
+													<tr>
+														<td>
+															<table  width="30%" align="center" cellspcading="0" cellpadding="0" border="0" role="presentation">
+																<tr>
+																	<td align="right">
+																		<img src="imagens/logo-face.jpg" alt="" width="30px">
+																	</td>
+																	<td width="20">
+
+																	</td>
+																	<td align="center">
+																		<img src="imagens/logo-link.png" alt=""  width="30px">
+																	</td>
+																	<td width="20">
+
+																	</td>
+																	<td align="left">
+																		<img src="imagens/logo-insta.jpg" alt=""  width="30px">
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<!-- END ICONS -->
+										<tr>
+											<td width="100%" height="20">
+
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+			</table>
+
+			<!--[if (gte mso 9)|(IE)]>
+				</td>
+				</tr>
+				</table>
+			<![endif]-->
+
+		</div>
+	</center>
+</body>
+</html>
